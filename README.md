@@ -1,19 +1,16 @@
-# vue-with-vuex
+# Vuex Counter
 
-## Project setup
-```
-npm install
-```
+#### Basic application build to understand how to work with Vue and Vuex
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](\src\assets\logo.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## What problems can the Vue and Vuex solve?
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- vue is easy to learn and to work with and it help build frontend application quickly.
+- vuex is simpler and yet very powerful state management tool.
+
+Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
+
+> For thy sweet love remembered such wealth brings
+>
+> That then I scorn to change my state with kings.
