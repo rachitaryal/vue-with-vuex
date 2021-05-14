@@ -2,7 +2,7 @@
 
 #### Basic application build to understand how to work with Vue and Vuex
 
-![](\src\assets\logo.png)
+![](/src/assets/logo.png)
 
 ## What problems can the Vue and Vuex solve?
 
